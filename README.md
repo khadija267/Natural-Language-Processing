@@ -2,7 +2,7 @@
 
  # ML Problem Solving
 <!-- Add banner here -->
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmytechdecisions.com%2Fit-infrastructure%2Fchoosing-natural-language-processing-business%2F&psig=AOvVaw2EYNZeE9IJP2xR8Cp4LFXJ&ust=1647543026308000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCSrZ6my_YCFQAAAAAdAAAAABAE)
+![Banner](https://mytechdecisions.com/wp-content/uploads/2021/02/AdobeStock_382844018-1000x500.jpeg)
 
 
 <!-- Add buttons here -->
