@@ -13,7 +13,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
 # Table of Content
-## 1. Spam Classifier using Naive Bayes.
+## 1. Spam Classifier.
+Applying supervised binary classification on  a dataset originally compiled and posted on the UCI Machine Learning repository.
+We used naive bayes, adaboost, random forest and bagging. Finally we concluded that the naive bayes had the best f1 score of 95%.
 
 
 
