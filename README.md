@@ -16,6 +16,7 @@
 ## 1. Spam Classifier.
 Applying supervised binary classification on  a dataset originally compiled and posted on the UCI Machine Learning repository.
 We used naive bayes, adaboost, random forest and bagging. Finally we concluded that the naive bayes had the best f1 score of 95%.
+![alt text](https://github.com/khadija267/Natural-Language-Processing/blob/main/images/1.png?raw=true)
 
 
 
