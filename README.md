@@ -30,7 +30,7 @@ Label each partition with the author’s name.
 </p>
 Results:
 <p float="center">
-  <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/9.png?raw=true" width="400" /> 
+  <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/8.png?raw=true" width="400" /> 
 </p>
 
 
