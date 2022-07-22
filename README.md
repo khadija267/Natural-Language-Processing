@@ -13,6 +13,28 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
 # Table of Content
+## 1. Gutenburg Books Classification:
+Data is selected 5 books from gutenberg from the same category (Crime).
+each book to 200 random partitions, each partition has 100 words.<br>
+NLP:
+<br>
+Transform each char to lowercase.
+Split sentences into words.
+Remove stop-words and garbage characters.
+Steaming words. 
+Label each partition with the author’s name.
+<p float="center">
+  <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/6.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/7.png?raw=true" width="400" /> 
+
+</p>
+Results:
+<p float="center">
+  <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/9.png?raw=true" width="400" /> 
+</p>
+
+
+
 ## 1. Recommender System:
 ### 1.1. Transactions Recommendation:
 A store is interested in determining the associations between items purchased from its Departments. 
