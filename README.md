@@ -35,8 +35,8 @@ Results:
 
 
 
-## 1. Recommender System:
-### 1.1. Transactions Recommendation:
+## 2. Recommender System:
+### 2.1. Transactions Recommendation:
 A store is interested in determining the associations between items purchased from its Departments. 
 <p float="center">
   <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/2.png?raw=true" width="400" /> 
@@ -47,7 +47,7 @@ A store is interested in determining the associations between items purchased fr
 
 
 
-### 1.2. Course Recommender System using Collaborative Filtering:
+### 2.2. Course Recommender System using Collaborative Filtering:
 An institute is contemplating instituting a recommendation system that would provide students with recommendations for additional courses.
 <p float="center">
   <img src="https://github.com/khadija267/Natural-Language-Processing/blob/main/images/4.png?raw=true" width="400" /> 
@@ -57,7 +57,7 @@ An institute is contemplating instituting a recommendation system that would pro
 </p>
 
 
-## 2. Spam Classifier.
+## 3. Spam Classifier.
 Applying supervised binary classification on  a dataset originally compiled and posted on the UCI Machine Learning repository.
 We used naive bayes, adaboost, random forest and bagging. Finally we concluded that the naive bayes had the best f1 score of 95%.
 ![alt text](https://github.com/khadija267/Natural-Language-Processing/blob/main/images/1.png?raw=true)
